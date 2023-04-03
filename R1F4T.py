@@ -1,0 +1,2 @@
+import Happy
+Happy.login()
